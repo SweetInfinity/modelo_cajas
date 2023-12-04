@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.inline-container {
+    background-color: #e6f7ff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    border: 1px solid black;
+    width: 10%;
+    margin: 10px;
+    padding: 20px;
+    display: block;
+}
